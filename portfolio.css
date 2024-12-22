@@ -246,7 +246,6 @@ nav {
     animation-range: entry 0 cover 40%;
     position: relative;
     height: 55vh;
-    z-index: -1;
 }
 #carouselExample{
     animation: project linear;
